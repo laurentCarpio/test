@@ -14,6 +14,7 @@
 		4D7FE21320C7155A00556A37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D7FE21120C7155A00556A37 /* LaunchScreen.storyboard */; };
 		4D7FE21E20C7155B00556A37 /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7FE21D20C7155B00556A37 /* testTests.swift */; };
 		4D7FE22920C7155B00556A37 /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7FE22820C7155B00556A37 /* testUITests.swift */; };
+		4D7FE23720C71F6300556A37 /* newFileFortest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7FE23620C71F6300556A37 /* newFileFortest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4D7FE22420C7155B00556A37 /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D7FE22820C7155B00556A37 /* testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITests.swift; sourceTree = "<group>"; };
 		4D7FE22A20C7155B00556A37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D7FE23620C71F6300556A37 /* newFileFortest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newFileFortest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				4D7FE20820C7155900556A37 /* AppDelegate.swift */,
 				4D7FE20A20C7155900556A37 /* ViewController.swift */,
+				4D7FE23620C71F6300556A37 /* newFileFortest.swift */,
 				4D7FE20C20C7155900556A37 /* Main.storyboard */,
 				4D7FE20F20C7155A00556A37 /* Assets.xcassets */,
 				4D7FE21120C7155A00556A37 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D7FE23720C71F6300556A37 /* newFileFortest.swift in Sources */,
 				4D7FE20B20C7155900556A37 /* ViewController.swift in Sources */,
 				4D7FE20920C7155900556A37 /* AppDelegate.swift in Sources */,
 			);
